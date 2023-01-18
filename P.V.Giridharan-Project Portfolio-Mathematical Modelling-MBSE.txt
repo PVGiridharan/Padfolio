@@ -7,7 +7,7 @@ All these projects and related research activities performed at Ballard Motive S
 
 Objective				: Mathematical modelling for Refuse Collection Vehicle – Hybrid FCEV powertrain configuration replacing Diesel configuration
 Abstract				: At very early concept stage or from marketing team requirement from customer to develop a FCEV vehicle. The project need is to evaluate the powertrain requirements for duty cycle – and various systems - Fuel Cell’s Power and Batteries’ (Capacity, Chemistry), and other HV and LV components. To do this, have developed scalable mathematical model using first principles/physics based by capturing Vehicle’s Resistive forces, Fuel cell, Batteries, DC-DC converter, Traction Motors and other HV loads consumers using mathematical and data driven models.Provide the management with the minimal vial able and as well the optimal powertrain configuration which is evaluated for packaging the specified components.
-Measurable Parameters	: Vehicle Actual Speed vs Desired Speed, Gradient, Fuel Cell- (Power, Current, Voltage, H2 Consumption, Efficiency),Batteries (Current, Voltage, Power, SOC), DC-DC converter (Current, Voltage, Efficiency), Traction Motor (Power, Current, Speed RPM, Torque), Other HV and LV Loads
+Measurable Parameters	: Vehicle Actual Speed vs Desired Speed, Gradient, Fuel Cell (Power, Current, Voltage, H2 Consumption, Efficiency),Batteries (Current, Voltage, Power, SOC), DC-DC converter (Current, Voltage, Efficiency), Traction Motor (Power, Current, Speed RPM, Torque), Other HV and LV Loads
 Tools Used				: MATLAB/Simulink
 
 Objective 				: Development of Battery Management System’s Logic in plant models
